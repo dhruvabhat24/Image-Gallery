@@ -10,4 +10,6 @@ This is a simple web application showcasing an image gallery with filters for di
    ```bash
    git clone https://github.com/dhruvabhat24/Image-Gallery.git
 
-If you'd like to contribute to this project, please check out the CONTRIBUTING.md file for guidelines on how to get started.
+
+License
+This project is licensed under the MIT License.
